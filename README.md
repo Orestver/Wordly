@@ -1,18 +1,22 @@
-# Wordly
+# 📘 Wordly
 
-Language learning app built with Python & Tkinter.
+**Wordly** — десктопна апка для вивчення слів з тестами, відповідністю та статистикою.
 
-## Features
-- Typing tests
-- Matching exercises
-- Statistics & streaks
-- Repeat wrong words
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-## Run
-pip install -r requirements.txt
-python uiapp.py
+---
 
+## 🚀 Можливості
+- 🎯 Тестування слів
+- 🔗 Вправа "Відповідність"
+- 🔁 Повтор помилок
+- 📊 Статистика та стріки
+- 🔊 Звуковий супровід
 
+---
+
+## 🛠 Встановлення
 ```bash
 pip install -r requirements.txt
 python uiapp.py
