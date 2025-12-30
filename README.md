@@ -11,3 +11,8 @@ Language learning app built with Python & Tkinter.
 ## Run
 pip install -r requirements.txt
 python uiapp.py
+
+
+```bash
+pip install -r requirements.txt
+python uiapp.py
