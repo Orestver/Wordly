@@ -18,5 +18,6 @@
 
 ## 🛠 Installation
 ```bash
+git clone https://github.com/Orestver/Wordly
 pip install -r requirements.txt
 python uiapp.py
